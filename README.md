@@ -7,14 +7,11 @@
 
 ### Connect with me:
 
- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/marijana-vranjes#gh-light-mode-only)
- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/marijana-vranjes/#gh-dark-mode-only)
+ [![website](./img/linkedin.svg)](https://linkedin.com/in/marijana-vranjes)
  &nbsp;&nbsp;
- [![website](./img/instagram-light.svg)](https://instagram.com/marijana_vranjes/#gh-light-mode-only)
- [![website](./img/instagram-dark.svg)](https://instagram.com/marijana_vranjes/#gh-dark-mode-only)
+ [![website](./img/instagram.svg)](https://instagram.com/marijana_vranjes)
  &nbsp;&nbsp;
- [![website](./img/youtube-light.svg)](https://youtube.com/@marijanavranjes#gh-light-mode-only)
- [![website](./img/youtube-dark.svg)](https://youtube.com/@marijanavranjes#gh-dark-mode-only)
+ [![website](./img/youtube.svg)](https://youtube.com/@marijanavranjes)
 
 ### Languages and Tools: 
  <img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
