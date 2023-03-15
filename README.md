@@ -36,5 +36,5 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="marijana-vranjes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marijana-vranjes&show_icons=true&hide_border=false&title_color=80bfff&icon_color=8080ff&bg_color=000000&text_color=c5dbec&border_color=c5dbec" />
+  <img align="left" alt="marijana-vranjes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marijana-vranjes&show_icons=true&hide_border=false&title_color=80bfff&icon_color=8080ff&bg_color=1a1a1a&text_color=c5dbec&border_color=c5dbec" />
 </details>
