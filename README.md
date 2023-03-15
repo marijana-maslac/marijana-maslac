@@ -1,9 +1,12 @@
 # Hi there, I'm Marijana 👋 
-
+<font size="4">
+ 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking forward to evolve in this IT world
 - 🥅 2023 Goals: Learn more about Frontend
 - ⚡ Fun fact: I'm making Fandom Wiki for my 3D game, keep in touch!!
+ 
+</font>
 
 ### <ins>Connect with me:</ins>
 
