@@ -17,15 +17,24 @@
 [![website](./img/youtube-dark.svg)](https://youtube.com/@marijanavranjes#gh-dark-mode-only)
 
 ### Languages and Tools:
-![website](./img/instagram-light.svg)
-<img align="left" alt="Visual Studio Code" width="26px" src='./img/visualstudiocode' style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<br><br><br>
+<img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
+<img src='img/css3.svg' width='30'>
+<img src='img/javascript.svg' width='30'>
+<img src='img/react.svg' width='30'>
+<img src='img/python.svg' width='30'>
+<img src='img/csharp.svg' width='30'>
+<img src='img/dotnet.svg' width='30'>
+<img src='img/c.svg' width='30'>
+<img src='img/unity.svg' width='30'>
+<img src='img/discord.svg' width='30'>
+<img src='img/github.svg' width='30'>
+<img src='img/slack.svg' width='30'>
+<img src='img/asana.svg' width='30'>
+<img src='img/mysql.svg' width='30'>
+
+<br>
 <details>
  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="marijana-vranjes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marijana-vranjes&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="marijana-vranjes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marijana-vranjes&show_icons=true&hide_border=false&title_color=80bfff&icon_color=8080ff&bg_color=000000&text_color=c5dbec&border_color=c5dbec" />
 </details>
