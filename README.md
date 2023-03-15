@@ -7,11 +7,11 @@
 
 ### Connect with me:
 
- [![website](./img/linkedin.svg)](https://linkedin.com/in/marijana-vranjes)
+ [<img src='img/linkedin.svg' width='30'>](https://linkedin.com/in/marijana-vranjes)
  &nbsp;&nbsp;
- [![website](./img/instagram.svg)](https://instagram.com/marijana_vranjes)
+ [<img src='img/instagram.svg' width='30'>](https://instagram.com/marijana_vranjes)
  &nbsp;&nbsp;
- [![website](./img/youtube.svg)](https://youtube.com/@marijanavranjes)
+ [<img src='img/youtube.svg' width='30'>](https://youtube.com/@marijanavranjes)
 
 ### Languages and Tools: 
  <img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
