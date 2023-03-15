@@ -5,7 +5,7 @@
 - 🥅 2023 Goals: Learn more about Frontend
 - ⚡ Fun fact: I'm making Fandom Wiki for my 3D game, keep in touch!!
 
-### Connect with me:
+### <ins>Connect with me:</ins>
 
  [<img src='img/linkedin.svg' width='30'>](https://linkedin.com/in/marijana-vranjes)
  &nbsp;&nbsp;
@@ -13,7 +13,8 @@
  &nbsp;&nbsp;
  [<img src='img/youtube.svg' width='30'>](https://youtube.com/@marijanavranjes)
 
-### Languages and Tools: 
+### <ins>Languages and Tools:</ins>
+
  <img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
 <img src='img/css3.svg' width='30'>
 <img src='img/javascript.svg' width='30'>
@@ -31,6 +32,8 @@
 
 <br>
 <details>
+ 
  <summary>:zap: GitHub Stats</summary>
+ 
   <img align="left" alt="marijana-vranjes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marijana-vranjes&show_icons=true&hide_border=false&title_color=80bfff&icon_color=8080ff&bg_color=1a1a1a&text_color=c5dbec&border_color=c5dbec" />
 </details>
