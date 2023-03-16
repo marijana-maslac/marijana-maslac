@@ -1,4 +1,4 @@
-# Hi there, I'm Marijanaaa 👋 
+# Hi there, I'm Marijanaa 👋 
  
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking forward to evolve in this IT world
