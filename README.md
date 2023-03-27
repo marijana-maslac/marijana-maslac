@@ -2,7 +2,7 @@
  
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking forward to evolve in this IT world
-- :computer: In spare time, I'm doing some freelance jobs
+- :computer: In spare time, I'm doing some student jobs
 - 🥅 2023 Goals: Learn more about Frontend
 - ⚡ Fun fact: I'm making Fandom Wiki for my 3D game, keep in touch!!
  
