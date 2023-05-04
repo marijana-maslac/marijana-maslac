@@ -1,10 +1,10 @@
 # Hi there, I'm Marijanaa 👋 
  
-- 🌱 I’m currently learning everything 🤣
-- 👯 Looking forward to evolve in this IT world
-- :computer: In spare time, I'm doing some student jobs
-- 🥅 2023 Goals: Learn more about Frontend
-- ⚡ Fun fact: I'm making Fandom Wiki for my 3D game, keep in touch!!
+- 🌱 Spring is in the air, let the sunshine in :sunglasses:
+- 👯 Looking forward to evolve in this IT world, it's so exciting!!
+- :computer: Upgrading myself: Currently attending Flutter Bootcamp 
+- 🥅 Life motto: Be kind no matter what :heart:
+- ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
 ### <ins>Connect with me:</ins>
 
