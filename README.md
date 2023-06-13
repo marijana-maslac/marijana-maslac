@@ -19,7 +19,6 @@
  <img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
 <img src='img/css3.svg' width='30'>
 <img src='img/javascript.svg' width='30'>
-<img src='img/react.svg' width='30'>
 <img src='img/python.svg' width='30'>
 <img src='img/csharp.svg' width='30'>
 <img src='img/dotnet.svg' width='30'>
