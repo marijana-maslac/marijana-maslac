@@ -1,9 +1,9 @@
 # Hi there, I'm Marijanaa 👋 
  
-- ☀️ I've got summer on my mind 😎:
+- ☀️ I've got summer on my mind 😎
 - 👯 Looking forward to evolve in this IT world, it's so exciting!!
-- 💻: Upgrading myself: Just finished my final exams for college, big upgrade soon to be a Bachelor of Engineering in Information Technology. 🎉 
-- 🥅 Life motto: Be kind no matter what ❤️:
+- 💻 Upgrading myself: Just finished my final exams for college, big upgrade soon to be a Bachelor of Engineering in Information Technology. 🎉 
+- 🥅 Life motto: Be kind no matter what ❤️
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
 ### <ins>Connect with me:</ins>
