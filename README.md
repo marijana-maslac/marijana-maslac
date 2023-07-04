@@ -1,7 +1,7 @@
 # Hi there, I'm Marijanaa 👋 
  
 - ☀️ I've got summer on my mind 😎
-- 👯 Looking forward to evolve in this IT world, it's so exciting!!
+- 👯 Looking forward to evolve in this IT world, it's so exciting!
 - 💻 Upgrading myself: Just finished my final exams for college 🎉 
 - 🥅 Life motto: Be kind no matter what ❤️
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
@@ -16,7 +16,7 @@
 
 ### <ins>Languages and Tools:</ins>
 
- <img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
+<img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
 <img src='img/css3.svg' width='30'>
 <img src='img/javascript.svg' width='30'>
 <img src='img/django.svg' width='30'>
