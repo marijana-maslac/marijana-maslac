@@ -2,7 +2,7 @@
  
 - ☀️ I've got summer on my mind 😎
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
-- 💻 Upgrading myself: Just started the course 'Advanced CSS and Sass' by Jonas Schmedtmann  
+- 💻 Upgrading myself: Attending Profico Academy; Frontend Development
 - 🥅 Life motto: Be kind no matter what ❤️
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
