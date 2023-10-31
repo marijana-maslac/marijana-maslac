@@ -1,6 +1,6 @@
 # Hi there, I'm Marijanaa 👋 
  
-- ☀️ I've got summer on my mind 😎
+- :fallen_leaf: Love this autumn vibes 
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
 - 💻 Upgrading myself: Attending Profico Academy; Frontend Development
 - 🥅 Life motto: Be kind no matter what ❤️
