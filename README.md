@@ -1,9 +1,9 @@
 # Hi there, I'm Marijanaa 👋 
  
-- ❄️: Winter chill; Let it snow! 
+- :hibiscus: Spring is here, sunshine is here!
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
-- 💻 Upgrading myself: Attending Profico Academy; Frontend Development
-- 🥅 Life motto: Be kind no matter what ❤️
+- 💻 Upgrading myself: Creating Travel Agency Web App, full stack
+- 🥅 Life motto: Be kind no matter what ❤️ Patience is everything 
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
 ### <ins>Connect with me:</ins>
