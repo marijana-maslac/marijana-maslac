@@ -3,7 +3,7 @@
 - 🏖️ I've got summer on my mind..
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
 - 💻 Upgrading myself: Creating Travel Agency Web App
-- 🥅 Life motto: Be kind no matter what ❤️ Patience is everything 
+- 🥅 Life motto: Be kind no matter what ❤️ 
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
 ### <ins>Connect with me:</ins>
