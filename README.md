@@ -1,6 +1,6 @@
 # Hi there, I'm Marijanaa 👋 
  
-- 🏖️ I've got summer on my mind..
+- 🍂 Autumn vibes
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
 - 💻 Upgrading myself: Creating Travel Agency Web App
 - 🥅 Life motto: Be kind no matter what ❤️ 
@@ -8,9 +8,9 @@
  
 ### <ins>Connect with me:</ins>
 
- [<img src='img/linkedin.svg' width='30'>](https://linkedin.com/in/marijana-vranjes)
+ [<img src='img/linkedin.svg' width='30'>](https://linkedin.com/in/marijana-maslac)
  &nbsp;&nbsp;
- [<img src='img/instagram.svg' width='30'>](https://instagram.com/marijana_vranjes)
+ [<img src='img/instagram.svg' width='30'>](https://instagram.com/marijana_maslac)
  &nbsp;&nbsp;
  [<img src='img/youtube.svg' width='30'>](https://youtube.com/@marijanavranjes)
 
@@ -30,6 +30,7 @@
 <img src='img/slack.svg' width='30'>
 <img src='img/asana.svg' width='30'>
 <img src='img/mysql.svg' width='30'>
+<img src='img/react.svg' width='30'>
 
 <br>
 
