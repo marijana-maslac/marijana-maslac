@@ -21,24 +21,23 @@
 <img src='img/visualstudiocode.svg' width='30'> <img src='img/html5.svg' width='30'>
 <img src='img/css3.svg' width='30'>
 <img src='img/javascript.svg' width='30'>
-<img src='img/django.svg' width='30'>
+<img src='img/typescript.svg' width='30'> 
+<img src='img/nodedotjs.svg' width='30'> 
+<img src='img/nextdotjs.svg' width='30'> 
+<img src='img/react.svg' width='30'> 
 <img src='img/python.svg' width='30'>
 <img src='img/csharp.svg' width='30'>
 <img src='img/dotnet.svg' width='30'>
 <img src='img/c.svg' width='30'>
-<img src='img/unity.svg' width='30'>
-<img src='img/typescript.svg' width='30'> 
-<img src='img/react.svg' width='30'> 
-<img src='img/nextjs.svg' width='30'> 
-<img src='img/nodejs.svg' width='30'> 
 <img src='img/postgresql.svg' width='30'> 
 <img src='img/prisma.svg' width='30'> 
+<img src='img/mysql.svg' width='30'>
+<img src='img/django.svg' width='30'>
+<img src='img/unity.svg' width='30'>
 <img src='img/axios.svg' width='30'> 
+<img src='img/zod.svg' width='30'>
 <img src='img/git.svg' width='30'> 
 <img src='img/github.svg' width='30'> 
-<img src='img/nextauth.svg' width='30'> 
-<img src='img/zod.svg' width='30'>
-<img src='img/mysql.svg' width='30'>
 
 <br>
 
