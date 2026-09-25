@@ -1,8 +1,10 @@
 # Hi there, I'm Marijanaa 👋 
  
 - :fallen_leaf: Hello autumn!! I'm so happy to see you here!
+- 🎓 Recently graduated in Information Technology.
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
-- 💻 Upgrading myself: Exploring options and new steps in career and future.
+- 🌱 Currently exploring new opportunities and discovering the next steps in my IT career.
+- 🚀 Always learning, improving and challenging myself with new projects in IT and in life.
 - 🥅 Life motto: Be kind no matter what ❤️ 
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
@@ -24,13 +26,9 @@
 <img src='img/csharp.svg' width='30'>
 <img src='img/dotnet.svg' width='30'>
 <img src='img/c.svg' width='30'>
-<img src='img/unity.svg' width='30'>
-<img src='img/discord.svg' width='30'>
+<img src='img/unity.svg' width='30'><img src='img/typescript.svg' width='30'> <img src='img/react.svg' width='30'> <img src='img/nextjs.svg' width='30'> <img src='img/nodejs.svg' width='30'> <img src='img/postgresql.svg' width='30'> <img src='img/prisma.svg' width='30'> <img src='img/axios.svg' width='30'> <img src='img/git.svg' width='30'> <img src='img/github.svg' width='30'> <img src='img/nextauth.svg' width='30'> <img src='img/zod.svg' width='30'>
 <img src='img/github.svg' width='30'>
-<img src='img/slack.svg' width='30'>
-<img src='img/asana.svg' width='30'>
 <img src='img/mysql.svg' width='30'>
-<img src='img/react.svg' width='30'>
 
 <br>
 
