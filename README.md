@@ -1,8 +1,8 @@
 # Hi there, I'm Marijanaa 👋 
  
-- :cherry_blossom: Spring is here, sunshine is here :sparkles:
+- :fallen_leaf: Hello autumn!! I'm so happy to see you here!
 - 👯 Looking forward to evolve in this IT world, it's so exciting!
-- 💻 Upgrading myself: Creating Web App for sharing recipes!!
+- 💻 Upgrading myself: Exploring options and new steps in career and future.
 - 🥅 Life motto: Be kind no matter what ❤️ 
 - ⚡ Fun fact: The intense fear or dislike of new technology is called technophobia.
  
